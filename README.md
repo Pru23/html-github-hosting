@@ -23,11 +23,6 @@ cp -r html-github-hosting/* .
 
 
 
-
-
-
-
-
 ---
 
 Once you've added the `README.md`, you're fully set to launch the EC2 instance with this repo. Want me to walk you through the EC2 launch again for Task 2 with this script?
