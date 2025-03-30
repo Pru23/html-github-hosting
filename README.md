@@ -1,4 +1,4 @@
-# 🖥️ Mole HTML Hosting via GitHub
+# 🖥️ HTML Hosting via GitHub
 
 This repository contains the files for a static HTML website used in AWS Task 2.
 
